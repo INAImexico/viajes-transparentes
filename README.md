@@ -2,7 +2,8 @@
 README Reto ViajesTransparentes
 ============
 
-Este README es una plantilla y conjunto de recomendaciones que ayudan a estructurar un proyecto antes de liberarlo a la comunidad de código abierto.
+Este README es una plantilla y conjunto de recomendaciones que ayudan a estructurar un proyecto antes de enviarlo como propuesta al Reto.
+
 Para seguir mejores prácticas de documentación de proyectos código abierto, puedes ver el [repo-guidelines](https://github.com/CodeandoMexico/repo-guidelines) de [Codeando México](https://github.com/CodeandoMexico/).
 
 Recuerda revisar la convocatoria completa del [RetoViajesTransparentes](http://ifai.codeandomexico.org).
@@ -13,14 +14,11 @@ Esta sección debe tener una lista completa de todas las dependencias necesarias
 ##Instalación / Configuración 
 Esta sección es una guía paso a paso para instalar el proyecto. Se recomienda una lista ordenada.
 
-##Uso 
-Sección opcional. Describe cómo utilizar su proyecto.
-
 ##Screenshots
-Añadir algunas capturas interesantes de su proyecto. Muy recomendable.
+Añadir algún screenshot interesante del proyecto. Muy recomendable.
 
 ##Demo
-Un enlace a una demostración en línea de su proyecto.
+Un enlace a una demostración en línea de su proyecto, así como un link a un screencast de máximo 4 minutos.
 
 ##¿Preguntas o problemas? 
 Esta sección describe cómo otros desarrolladores y los usuarios deben interactuar con su proyecto. Aquí un ejemplo:
