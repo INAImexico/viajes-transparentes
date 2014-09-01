@@ -23,18 +23,16 @@ Un enlace a una demostración en línea de su proyecto, así como un link a un s
 ##¿Preguntas o problemas? 
 Esta sección describe cómo otros desarrolladores y los usuarios deben interactuar con su proyecto. Aquí un ejemplo:
 
-Mantenemos la conversación del proyecto en nuestra página de problemas [issues] (https://github.com/CodeandoMexico/repo-guidelines/issues). Si usted tiene cualquier otra pregunta, nos puede contactar por correo <equipo@codeandomexico.org>.
+Mantenemos la conversación del proyecto en nuestra página de problemas [issues] (https://github.com/CodeandoMexico/repo-guidelines/issues). Si usted tiene cualquier otra pregunta, nos puede contactar por correo <retos@codeandomexico.org>.
 
 ##Contribuye
 Sección para explicar cómo contribuir a su proyecto. Debe añadir enlace al archivo CONTRIBUTING.md. Ejemplo:
 
-Queremos que este proyecto sea el resultado de un esfuerzo de la comunidad. Usted puede colaborar con [código](https://github.com/CodeandoMexico/repo-guidelines/pulls), [ideas](https://github.com/CodeandoMexico/repo-guidelines/issues) and [bugs](https://github.com/CodeandoMexico/repo-guidelines/issues). Lea nuestro archivo [CONTRIBUYE](/CONTRIBUYE.md).
+Queremos que este proyecto sea el resultado de un esfuerzo de la comunidad. Usted puede colaborar con [código](https://github.com/CodeandoMexico/repo-guidelines/pulls), [ideas](https://github.com/CodeandoMexico/repo-guidelines/issues) and [bugs](https://github.com/CodeandoMexico/repo-guidelines/issues).
 
 ##Equipo
 Indique los miembros del equipo principal que son responsables del desarrollo y mantenimiento de este proyecto. Añadir una referencia a sus perfiles de GitHub/Twitter/LinkedIn. Ejemplo:
 
-Este proyecto es una iniciativa de [Codeando México](http://www.codeandomexico.org).
-El core team:
 - [Juan Pablo Escobar](https://github.com/juanpabloe)
 - [Eduardo Salinas](https://github.com/lalo)
 - [Noé Domínguez](https://github.com/poguez)
